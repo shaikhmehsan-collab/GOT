@@ -6,3 +6,6 @@ Deneris Targerian
 Arya Stark
 Sansa Stark
 Bran Stark
+Ned Stark
+Catelyn Stark
+Robb Stark
